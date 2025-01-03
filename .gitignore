@@ -1,0 +1,19 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+Packages/
+UserSettings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+*.csproj
+*.sln
+*.userprefs
+.vscode/
